@@ -1,7 +1,7 @@
 # Induction of Syntactic Structure
 This repo is constructed for collecting and categorizing papers about Induction of Syntactic Structure (Unsupervised Learning of Syntax; Unsupervised Natural Language Syntactic Parsing) according to our book——[_**Unsupervised Natural Language Syntactic Parsing**_](https://xx).
 # Introduction
-See [introduction](/introduction.tex) 
+See [introduction](introduction.tex) 
 
 # Catalogue
 ## [Introduction](#1)
@@ -63,10 +63,10 @@ See [introduction](/introduction.tex)
 ## Book Overview
 <p id="1.3"></p >
 
-## [2. Unsupervised Dependency Parsin](#7)
+## [2. Unsupervised Dependency Parsing](#7)
 <p id="2"></p >
 
-## [3. Unsupervised Constituency Parsin](#8)
+## [3. Unsupervised Constituency Parsing](#8)
 
 <p id="3"></p >
 
